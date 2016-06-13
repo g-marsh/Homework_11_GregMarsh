@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Movies</item>
+        <item>Food</item>
+        <item>Music</item>
+        <item>Cameras</item>
+        <item>Engineering</item>
+        <item>Geography</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>How many movies have cost over $250 million to make</item>
+        <item>What is the percentage of calories from protein that can be expected in a vegan diet?</item>
+        <item>Shortest female singer at Bill Clinton\'s 1993 inauguration?</item>
+        <item>Common sensor width of a DSLR camera?</item>
+        <item>What is the value of 9.81 m/s^2 associated with?</item>
+        <item>Major U.S. city below sea level?</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Six</item>
+        <item>10</item>
+        <item>Stevie Nicks</item>
+        <item>22mm</item>
+        <item>Gravity</item>
+        <item>New Orleans</item>
+    </string-array>
+
+    <string-array name="choices_movies">
+        <item>None</item>
+        <item>Three</item>
+        <item>Six</item>
+        <item>78</item>
+    </string-array>
+
+    <string-array name="choices_food">
+        <item>1</item>
+        <item>10</item>
+        <item>30</item>
+        <item>50</item>
+    </string-array>
+
+    <string-array name="choices_music">
+        <item>Stevie Nicks</item>
+        <item>Loretta Lynn</item>
+        <item>Cher</item>
+        <item>Taylor Swift</item>
+    </string-array>
+
+    <string-array name="choices_cameras">
+        <item>6mm</item>
+        <item>10mm</item>
+        <item>22mm</item>
+        <item>41mm</item>
+    </string-array>
+
+    <string-array name="choices_engineering">
+        <item>Speed of Light</item>
+        <item>Gravity</item>
+        <item>Modulus of Elasticity</item>
+        <item>Heat Transfer</item>
+    </string-array>
+
+    <string-array name="choices_geography">
+        <item>Los Tacos</item>
+        <item>Miami</item>
+        <item>New Orleans</item>
+        <item>Venice</item>
+
+    </string-array>
+</resources>

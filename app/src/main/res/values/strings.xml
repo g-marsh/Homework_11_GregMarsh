@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework_11_GregMarsh</string>
+    <string name="game">Game</string>
+    <string name="stats">Stats</string>
+    <string name="main">Main</string>
+    <string name="category">Category</string>
+    <string name="clear">Clear</string>
+    <string name="correct">Correct!</string>
+    <string name="numb_questions">Number of Questions:</string>
+    <string name="numb_correct">Number of Correct:</string>
+</resources>
